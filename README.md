@@ -2,11 +2,11 @@
 
 
 <!--Banner-->
-![SPIDER GIf](Dragon.gif)
+![Dragon GIf](Dragon.gif)
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Interactive spider 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Interactive Dragon 
 📌 Dragon Cursor 
 
 Source Code
